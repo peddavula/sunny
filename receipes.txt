@@ -4,4 +4,3 @@ class
 inheritance
 encapsulation
 hiding
-fsdfdfdfdf
