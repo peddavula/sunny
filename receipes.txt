@@ -2,3 +2,5 @@ welcome to java
 object
 class
 inheritance
+encapsulation
+hiding
